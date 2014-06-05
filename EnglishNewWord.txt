@@ -3,3 +3,10 @@
 3.opaque adj.不透明的 n.不透明
 4.comma n.逗号
 5.acceleration n.加速；促进；[物]加速度
+6.favor of 有利于；支持；赞同
+7.specifics n.细节；特性；详情
+8.rasterizer 光栅化程序
+9.linux distros linux发行版
+10.multiple adj.多重的；多样的；许多的 n.倍数；【电】并联
+11.ultimately adv.最后；根本；基本上
+12.mechanism n.机制;原理；途径；进程；机械装置；技巧 
