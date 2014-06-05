@@ -10,3 +10,16 @@
 10.multiple        adj.多重的；多样的；许多的 n.倍数；【电】并联
 11.ultimately      adv.最后；根本；基本上
 12.mechanism       n.机制;原理；途径；进程；机械装置；技巧 
+13.irrelevant      adj.不相干的；不切题的
+14.boilerplate     n.样板文件；引用
+15.sphere          n.球体；范围 vt.包围；放入球内；使...成球形
+16.portion         n.部分；一份；命运 vt.分配；给..嫁妆
+17.and so forth    等等..
+18.vendor          n.卖主；小贩；【贸易】自动售货机
+19.renderer        n.渲染器
+20.benchmark       n.基准；标准检查程序 vt.用基准问题测试（计算机系统等）
+21.diverse         adj.不同的；多种多样的；变化多的
+22.empower         vt.授权；允许；使能够
+23.intuitive       adj.直觉的；凭直觉获知的
+24.sparking        n.发火花；点火 v.导致；发出火星；是大感兴趣
+25.
