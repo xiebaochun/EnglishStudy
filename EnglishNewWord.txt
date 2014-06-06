@@ -32,4 +32,13 @@
 32.flickering      adj.闪烁的；忽隐忽现的；摇曳的
 33.vice versa      反之亦然
 34.composited      adj.复合的；混合的
-35.
+35.intensity       n.强度；强烈；【电子】亮度；紧张
+36.resemble        vt.类似；像
+37.interpret       vt.说明；口译；vi.解释；翻译
+38.issuing         n.发行物；vt.分配；流出
+39.incorporate     vt.包含；vi.合并；adj.混合的
+40.probe           n.探针；调查 vi.调查；探测
+41.
+
+
+
