@@ -22,4 +22,14 @@
 22.empower         vt.授权；允许；使能够
 23.intuitive       adj.直觉的；凭直觉获知的
 24.sparking        n.发火花；点火 v.导致；发出火星；是大感兴趣
-25.
+25.unspectacular   adj.不引人注意的；普通的
+26.decipherable    adj.可判读的；可解释的
+27.preface         n.前言；引语 vt.为...加序言；以...开始；vi.作序
+28.forward-compatible 向前兼容的；
+29.profile         n.侧面；轮廓；外形；剖面；简况
+30.respectively    adv.分别地；各自地；独自地
+31.overlap         n.重叠；重复
+32.flickering      adj.闪烁的；忽隐忽现的；摇曳的
+33.vice versa      反之亦然
+34.composited      adj.复合的；混合的
+35.
