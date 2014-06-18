@@ -40,7 +40,7 @@
 40.probe           n.探针；调查 vi.调查；探测
 41.assembly        n.装配；集会；集合
 42.overwhelmed     v.受打击；adj.受宠若惊的
-43.
+43.macros          n.宏指令；宏命令
 
 
 
