@@ -39,7 +39,8 @@
 39.incorporate     vt.包含；vi.合并；adj.混合的
 40.probe           n.探针；调查 vi.调查；探测
 41.assembly        n.装配；集会；集合
-42
+42.overwhelmed     v.受打击；adj.受宠若惊的
+43.
 
 
 
