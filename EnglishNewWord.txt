@@ -43,5 +43,5 @@
 43.macros          n.宏指令；宏命令
 44.bottom up       let's see the bottom of your grass, or finish your drink
 45.simultaneously  adv.同时地；一壁；一齐；
-
+46.be committed with 提交
 
