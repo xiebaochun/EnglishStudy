@@ -42,6 +42,6 @@
 42.overwhelmed     v.受打击；adj.受宠若惊的
 43.macros          n.宏指令；宏命令
 44.bottom up       let's see the bottom of your grass, or finish your drink
-
+45.simultaneously  adv.同时地；一壁；一齐；
 
 
